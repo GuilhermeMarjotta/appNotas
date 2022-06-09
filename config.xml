@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="io.cordova.hellocordova" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>App Notas</name>
+
+    <description>Um aplicativo para organisar anotações simples</description>
+    <author email="guimarjotta@gmail.com" href="https://github.com/GuilhermeMarjotta">
+       Guilherme by discord POPS#7777
+    </author>
+    <icon src="res/icon.png"/>
+    <prefence name="SplashScreen" value="screen" />
+    <Splash src="res/splash.jpg" />
+    <prefence name="SplashScreenDelay" value="3000" />
+    <prefence name="SplashMaintainAspectRatio" value="true" />
+    <content src="index.html" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+</widget>

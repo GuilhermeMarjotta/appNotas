@@ -1,0 +1,2 @@
+plugin de splash: cordova plugin add cordova-plugin-splashscreen
+
